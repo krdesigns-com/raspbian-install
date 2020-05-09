@@ -14,7 +14,7 @@ chmod +x /root/*.sh
 chmod +x /root/nginx-conf/*.sh
 chmod +x /root/install-apps/*.sh
 chmod +x /root/hass/*.sh
-rm /root/archive.zip
+rm /root/master.zip
 /root/main.sh
 rm /root/main.sh
 ```
